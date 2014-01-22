@@ -1,4 +1,4 @@
-<h1>ab_ed</h1>
+<h1>VGI</h1>
 =====
 
 <h2>A VGI project with <a href="http://edmontonpipelines.org/">Edmonton Pipelines</a><h2>
