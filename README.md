@@ -25,7 +25,7 @@
 </p>
 
 <p>
-	<img src="https://github.com/mattdance/vgi_project/blob/master/stack_concept.png"/>
+	<img src="https://github.com/mattdance/vgi_project/blob/master/stack_concept.png" alt="geostack">
 
 <p>
 
