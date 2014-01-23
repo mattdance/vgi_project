@@ -25,7 +25,15 @@
 </p>
 
 <p>
-	<img src="https://github.com/mattdance/vgi_project/blob/master/stack_concept.png"/>
+	Other project components include:
+	<ul>
+	<li>The geostack that I envision is stack_concept.png</li>
+	<li>The splash page will inlcude a disclaimer that indicates a user is about to contribute potentially provate data to a (see wireframe_splash.png).</li>
+	<li>The main page posses the zoom, drawing and layer control tools (see wireframe_main.png).</li>
+	<li>When the user selects a drawing tool, they must also provide a title and description of that tool prior to saving whatever spatial element that they contribute (see wireframe_add_polygon.png).</li>
+
 </p>
 
-<p>Finally, I am new here. If you have any comments or criticism please let me know.</p>
+<p>
+	More to come.
+</p>
