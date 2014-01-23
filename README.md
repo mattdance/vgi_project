@@ -7,6 +7,7 @@
 <ol>
 <li>Is open and available on GitHub;</li>
 <li>Supports user contributions of point, line, and polygon;</li>
+<li>Supports user annotation or description of the geographic feature contributed;</li>
 <li>Allows the user to label and describe their geometry;</li>
 <li>Saves the geometry and metadata in a database;</li>
 <li>Supports the moderation of contributions.</li>
@@ -22,6 +23,9 @@
 <li>SQL: CartoDB describes <a href="http://blog.cartodb.com/post/53510434258/read-and-write-to-cartodb-with-the-leaflet-draw-plugin"> here</a> how they use SQL to link the LeafLetDraw plugin to a table.
 </ol>
 </p>
+
+<p>
+	<img src="https://github.com/mattdance/vgi_project/blob/master/stack_concept.png"/>
 
 <p>
 
