@@ -26,7 +26,6 @@
 
 <p>
 	<img src="https://github.com/mattdance/vgi_project/blob/master/stack_concept.png" alt="geostack">
-
-<p>
+</p>
 
 <p>Finally, I am new here. If you have any comments or criticism please let me know.</p>
