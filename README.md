@@ -7,7 +7,6 @@
 <ol>
 <li>Is open and available on GitHub;</li>
 <li>Supports user contributions of point, line, and polygon;</li>
-<li>Supports user annotation or description of the geographic feature contributed;</li>
 <li>Allows the user to label and describe their geometry;</li>
 <li>Saves the geometry and metadata in a database;</li>
 <li>Supports the moderation of contributions.</li>
