@@ -42,5 +42,5 @@
 <p>
 	More to come.
 	
-	![ScreenShot] (https://raw.github.com//mattdance/vgi_project/master/stack_concept.png)
+	![ScreenShot] (https://raw.github.com/mattdance/vgi_project/blob/master/wf1.jpg)
 </p>
