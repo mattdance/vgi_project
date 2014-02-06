@@ -55,11 +55,17 @@ Once the user hits the "contribute" button, they will be allowed to add content 
 </p>
 
 <p>
-On the back end, several things are happening.  In step two (from above and in reference to wf2.jpg) when the user presses the "cancel" button, nothing happens, the data is not saved anywhere. When the user presses the "save" button, the data is saved, via SQL script, the an unmoderated CartoDB table.  In addition, to the input data, a contributors IP, Postal Code and other pertainant data will be saved to the same unmoderated table.  If there are issues with the contribution, the users IP can be blocked.
+On the back end, several things are happening.  In step two (from above and in reference to wf2.jpg) when the user presses the "cancel" button, nothing happens, the data is not saved anywhere. When the user presses the "save" button, the data is saved, via SQL script, to an unmoderated CartoDB table.  In addition, to the input data, a contributors IP, Postal Code and other pertainant data will be saved to the same unmoderated table.  If there are issues with the contribution, the users IP can be blocked. An admin will have to go into CartoDB to moderate the contribution, and add the data to a moderated VGI table.
 </p>
 
-<h3>Question</h3>
-<p>Should we require a valid email to complete the "save"? </p>
+<h4>Questions</h4>
+<p>
+<ol>
+<li>Should we require a valid email to complete the "save"? </li>
+<li>How to we cartographically manage overlapping contributions that overlap?</li>
+<li>How do me manage contribtions that are historical versus contemporary?<li>
+
+</p>
 
 <p>
 	More to come.
