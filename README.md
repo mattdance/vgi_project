@@ -35,9 +35,31 @@
 
 </p>
 
+<p>
+As seen in wf1.jpg, the splash page has a few components of note:
+	<ul>
+		<li>A consent pop-up that will outline the limitation of data presented (i.e. not for navigation); privacy implications of adding spatial data; and that contributions will be moderated for inappropriate content.</li>
+		<li>The side panel has a more detailed project overview, as well as links to other sites such as a twitter, facebook and blog pages.</li>
+		<li>If the user does not consent, they will be allowed to view the data, but not add any spatial features - the draw tools will not be activiated.</li>
+	</ul>
+</p>
 
+<p>
+Once the user hits the "contribute" button, they will be allowed to add content via the draw button (see wf2.jpg). The work flow is as follows:
+	<ol>	
+		<li>The user will select the point, line or polygon button (*NOTE* add a trash button) to draw a feature. </li>
+		<li>When the user presses the save icon on the draw toolbar, a popup will appear asking for a title and description of the feature just drawn (see wf3.jpg).</li> 
+		<li>When "save" button is pressed, the data are saved and the user is presented with a confirmation popup indicating that the data is in a moderation queue.</li>
+		<li>Once the user closes the "confirmation and moderation" popup window, they are presented with a blank map allowing for more data input.</li>
+	</ol>
+</p>
 
+<p>
+On the back end, several things are happening.  In step two (from above and in reference to wf2.jpg) when the user presses the "cancel" button, nothing happens, the data is not saved anywhere. When the user presses the "save" button, the data is saved, via SQL script, the an unmoderated CartoDB table.  In addition, to the input data, a contributors IP, Postal Code and other pertainant data will be saved to the same unmoderated table.  If there are issues with the contribution, the users IP can be blocked.
+</p>
 
+<h3>Question</h3>
+<p>Should we require a valid email to complete the "save"? </p>
 
 <p>
 	More to come.
