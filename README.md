@@ -28,10 +28,10 @@
 
 	
 	<ul>
-	<li>The geostack that I envision is stack_concept.png</li>
-	<li>The splash page will inlcude a disclaimer that indicates a user is about to contribute potentially provate data to a (see wireframe_splash.png).</li>
-	<li>The main page posses the zoom, drawing and layer control tools (see wireframe_main.png).</li>
-	<li>When the user selects a drawing tool, they must also provide a title and description of that tool prior to saving whatever spatial element that they contribute (see wireframe_add_polygon.png).</li>
+	<li>The geostack that I envision is stackconcept.png</li>
+	<li>The splash page will inlcude a disclaimer that indicates a user is about to contribute potentially provate data to a (see wf1.jpg).</li>
+	<li>The main page posses the zoom, drawing and layer control tools (see wf2.jpg).</li>
+	<li>When the user selects a drawing tool, they must also provide a title and description of that tool prior to saving whatever spatial element that they contribute (see wf2.jpg and wf3.jpg).</li>
 
 </p>
 
@@ -42,5 +42,4 @@
 <p>
 	More to come.
 	
-	![ScreenShot] (https://github.com/mattdance/vgi_project/blob/master/wf1.jpg)
 </p>
