@@ -64,10 +64,7 @@ On the back end, several things are happening.  In step two (from above and in r
 <li>Should we require a valid email to complete the "save"? </li>
 <li>How to we cartographically manage overlapping contributions that overlap?</li>
 <li>How do me manage contribtions that are historical versus contemporary?<li>
-
+</ol>
 </p>
 
-<p>
-	More to come.
-	
-</p>
+<h2>More to come.</h2>
